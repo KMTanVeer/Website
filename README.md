@@ -41,7 +41,7 @@ To set up this landing page locally, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repo-name
+    cd website
     ```
 
 3. Open `index.html` in your web browser to view the landing page.
